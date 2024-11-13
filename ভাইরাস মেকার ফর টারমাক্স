@@ -1,0 +1,4 @@
+pkg install git
+git clone https://github.com/mishakorzik/Infect
+cd Infect
+bash install.sh
